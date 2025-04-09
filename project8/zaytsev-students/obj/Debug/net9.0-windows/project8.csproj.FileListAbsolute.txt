@@ -1,0 +1,14 @@
+C:\Users\alwaezz\OneDrive\Рабочий стол\project8\obj\Debug\net9.0-windows\project8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alwaezz\OneDrive\Рабочий стол\project8\obj\Debug\net9.0-windows\project8.AssemblyInfoInputs.cache
+C:\Users\alwaezz\OneDrive\Рабочий стол\project8\obj\Debug\net9.0-windows\project8.AssemblyInfo.cs
+C:\Users\alwaezz\OneDrive\Рабочий стол\project8\obj\Debug\net9.0-windows\project8.csproj.CoreCompileInputs.cache
+C:\Users\alwaezz\OneDrive\Рабочий стол\project8\bin\Debug\net9.0-windows\project8.exe
+C:\Users\alwaezz\OneDrive\Рабочий стол\project8\bin\Debug\net9.0-windows\project8.deps.json
+C:\Users\alwaezz\OneDrive\Рабочий стол\project8\bin\Debug\net9.0-windows\project8.runtimeconfig.json
+C:\Users\alwaezz\OneDrive\Рабочий стол\project8\bin\Debug\net9.0-windows\project8.dll
+C:\Users\alwaezz\OneDrive\Рабочий стол\project8\bin\Debug\net9.0-windows\project8.pdb
+C:\Users\alwaezz\OneDrive\Рабочий стол\project8\obj\Debug\net9.0-windows\project8.dll
+C:\Users\alwaezz\OneDrive\Рабочий стол\project8\obj\Debug\net9.0-windows\refint\project8.dll
+C:\Users\alwaezz\OneDrive\Рабочий стол\project8\obj\Debug\net9.0-windows\project8.pdb
+C:\Users\alwaezz\OneDrive\Рабочий стол\project8\obj\Debug\net9.0-windows\project8.genruntimeconfig.cache
+C:\Users\alwaezz\OneDrive\Рабочий стол\project8\obj\Debug\net9.0-windows\ref\project8.dll
